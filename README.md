@@ -1,6 +1,6 @@
 # simple-node-js-react-npm-app
 
-[Buildstatus](http://localhost:8080/job/simple-node-js-react-npm-app/badge/icon)
+[![Build Status](http://localhost:8080/buildStatus/icon?job=simple-node-js-react-npm-app)](http://localhost:8080/job/simple-node-js-react-npm-app/)
 
 This repository is for the
 [Build a Node.js and React app with npm](https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/)
